@@ -41,10 +41,11 @@ uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 
 [Twitter]
 enabled = true
+version = auto
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 build-mode = "apk"
 dpi = "120-640dpi"
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 
 [TikTok]
 enabled = false
