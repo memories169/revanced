@@ -1,3 +1,4 @@
+Messenger: 523.0.0.53.109  
 RAR: 7.11.build127  
 Solid-Explorer: 2.8.63  
 YouTube: 20.13.41  
