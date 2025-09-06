@@ -13,7 +13,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 included-patches = "'Custom branding'"
 
-[Google Photo]
+[Google-Photo]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 included-patches = "'Enable DCIM folders backup control'"
 
@@ -23,7 +23,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
 [RAR]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/rarlab-published-by-win-rar-gmbh/rar/"
 
-[Solid Explorer]
+[Solid-Explorer]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/neatbytes/solid-explorer-beta/"
 
 [Mazii]
