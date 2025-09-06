@@ -1,6 +1,5 @@
 enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
-remove-rv-integrations-checks = true
 
 # add 'enabled = false' for not patching a specific app or remove it from the config
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
@@ -22,6 +21,8 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/rarlab-published-by-win-rar-gmb
 apkmirror-dlurl = "https://www.apkmirror.com/apk/neatbytes/solid-explorer-beta/"
 included-patches = "'Disable Pairip license check'"
 
-[Mazii]
-uptodown-dlurl = "https://mazii-dict.en.uptodown.com/android"
+[Mazii-Dict]
+enabled = true
+version = "auto"
 included-patches = "'Disable Pairip license check'"
+uptodown-dlurl = "https://mazii-dict.en.uptodown.com/android"
