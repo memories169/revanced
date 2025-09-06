@@ -19,7 +19,3 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/rarlab-published-by-win-rar-gmb
 [Solid-Explorer]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/neatbytes/solid-explorer-beta/"
 
-[Mazii]
-uptodown-dlurl = "https://mazii-dict.en.uptodown.com/android"
-build-mode = "both"
-included-patches = "'Disable Pairip license check'"
