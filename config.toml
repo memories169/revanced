@@ -8,6 +8,8 @@ parallel-jobs = 1
 
 [Messenger]
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
+arch = "arm64-v8a"
+build-mode = "both"
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
@@ -18,4 +20,6 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/rarlab-published-by-win-rar-gmb
 
 [Solid-Explorer]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/neatbytes/solid-explorer-beta/"
+build-mode = "both"
+included-patches = "'Disable Pairip license check'"
 
